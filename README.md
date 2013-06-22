@@ -6,7 +6,7 @@ web applications. In this course, trainees will get hands-on experience setting 
 configuring Node.js, creating a web application server, working with node modules, test-driven
 development in Node.js and code versioning with Git.
 
-## Prerequites
+## Prerequisites
 
  - Familiarity with the Javascript language
  - Web development experience
