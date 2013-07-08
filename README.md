@@ -20,9 +20,16 @@ development in Node.js and code versioning with Git.
 	- Simple "Hello World" http server (code sample will be provided)
 - Web Application Development
 	- HTTP server fundamentals
+		- A restful node web server (actual coding)
+		- Static file server using streams (actual coding)
 	- Introduction to NPM (express framework)
+		- Installing packages using NPM
+		- Configuring an express web application (actual coding)
+		- Twitter clone using express web framework and jquery (actual coding)
 	- Storing application data in Node.js
+		- Using MongoDB to store tweets (actual coding)
 	- Web application templating
+		- Applying ejs template (actual coding)
 - Practical Node.js
 	- Working with the event loop
 	- Design patterns with Node.js (Module pattern, Prototype pattern)
